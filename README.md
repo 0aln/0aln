@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @0aln (AL)
-
+- 👋 Hi, I’m @0aln (AL)👋
 
 <!---
 0aln/0aln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
